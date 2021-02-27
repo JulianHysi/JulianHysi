@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?label=julianhysi.com&style=for-the-badge&url=https%3A%2F%2Fjulianhysi.com)](https://julianhysi.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JulianHysi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJulianHysi&screen_name=JulianHysi)
 
+
 ## I'm a Developer, Creator, Tech Enthusiast and Teacher!
 
 - 🐍 I'm a Python developer mainly working on back end systems and databases
@@ -11,14 +12,6 @@
 - 🌱 I’m currently learning FastAPI, TDD, XP etc
 - 👯 I’m looking to start contrubuting more to open source
 
-
-### Connect with me:
-
-[<img align="left" alt="julianhysi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JulianHysi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="julian-hysi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -38,6 +31,16 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
+
+### Connect with me:
+
+[<img align="left" alt="julianhysi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="JulianHysi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="julian-hysi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
 
 [website]: https://julianhysi.com
 [twitter]: https://twitter.com/JulianHysi
