@@ -7,9 +7,7 @@
 ## I'm a Developer, Creator, Tech Enthusiast and Teacher!
 
 - 🐍 I'm a Python developer mainly working on back end systems and databases
-- 🔭 I just launched my personal blog site: [julianhysi.com](https://www.julianhysi.com)
-- ⚡ I quit my job and switched to full time freelancing
-- 🌱 I’m currently learning FastAPI, TDD, XP etc
+- 🔭 I recently launched my personal blog: [julianhysi.com](https://www.julianhysi.com)
 - 👯 I’m looking to start contrubuting more to open source
 
 <br />
