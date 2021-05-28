@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JulianHysi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJulianHysi&screen_name=JulianHysi)
 
 
-## I'm a Developer, Creator, Tech Enthusiast and Teacher!
+## I'm a Developer, Tech & Science Enthusiast and Blogger!
 
 - 🐍 I'm a Python developer mainly working on back end systems and databases
 - 🔭 I recently launched my personal blog: [julianhysi.com](https://www.julianhysi.com)
