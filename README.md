@@ -6,9 +6,10 @@
 
 ## I'm a Developer, Tech & Science Enthusiast and Blogger!
 
-- 🐍 I'm a Python developer mainly working on back end systems and databases
-- 🔭 I recently launched my personal blog: [julianhysi.com](https://www.julianhysi.com)
-- 👯 I’m looking to start contrubuting more to open source
+- 🐍 I'm a backend Python Software Engineer
+- 🔭 I blog about Python and software development at [julianhysi.com](https://www.julianhysi.com)
+- 👯 I’m looking to start contributing more to open source
+- 🐦 Subscribe to my [Python list](https://twitter.com/i/lists/1605933984868974596?s=20)
 
 <br />
 
@@ -24,9 +25,9 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/vim/vim.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Boostrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Docker.svg" />
+<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Nginx.svg" />
+<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Redis-Light.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
